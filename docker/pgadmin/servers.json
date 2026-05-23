@@ -6,8 +6,8 @@
       "Host": "postgres",
       "Port": 5432,
       "MaintenanceDB": "chatapp",
-      "Username": "postgres",
-      "Password": "postgres",
+      "Username": "admin",
+      "Password": "admin",
       "SSLMode": "prefer"
     }
   }
