@@ -3,8 +3,8 @@ spring:
     name: chat-app
   datasource:
         url: jdbc:postgresql://localhost:5432/chatapp
-        username: admin
-        password: admin
+        username: postgres
+        password: postgres
         driver-class-name: org.postgresql.Driver
   jpa:
         hibernate:
