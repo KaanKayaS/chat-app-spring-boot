@@ -1,0 +1,15 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "chatapp",
+      "Group": "Docker",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "chatapp",
+      "Username": "admin",
+      "Password": "admin",
+      "SSLMode": "prefer",
+      "PassFile": "/pgpass"
+    }
+  }
+}
